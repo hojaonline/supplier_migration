@@ -1,0 +1,17 @@
+/**
+* Author: Hoja
+*/
+.table-sortable tbody tr {
+    cursor: move;
+}
+
+.supplier-logo{
+	max-width : 300px;
+	max-height: 100px;
+}
+td {
+  text-align: center;
+}
+tr:nth-child(2n) {
+  background: none repeat scroll 0 0 #cff;
+}
